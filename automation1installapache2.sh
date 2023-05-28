@@ -16,5 +16,6 @@ aws s3 cp /tmp/archive-$(date '+%d%m%Y-%H%M%S').tar s3://ap01007/
 $sudo install git 
 git --version
 bash
+$echo "hi"
 "
 
